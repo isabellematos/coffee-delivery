@@ -2,7 +2,7 @@
 
 Projeto final da disciplina **Single Page Application (SPA)**: e-commerce fictício de cafeteria com catálogo, carrinho, checkout e confirmação de pedido. Sem backend e sem pagamento real.
 
-- **Aplicação publicada (Render):** _(colar o link após o deploy)_
+- **Aplicação publicada (Render): https://coffee-delivery-drfk.onrender.com/
 - **Figma de referência:** https://www.figma.com/design/yGPNTA0Yczb183EikXGIiA/Coffee-Delivery-%E2%80%A2-Projeto-Final-React?node-id=2-1297
 
 ## Objetivos
